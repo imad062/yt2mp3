@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/imad/Desktop/yt2mp3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/imad/Desktop/yt2mp3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cc53a75c7b8b806ffa0f035b5a276436796a97d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/imad/Desktop/yt2mp3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f36f8d20cb701e63539a4b24f7cbe2d8f64c47d8">
+        <dex dex="/Users/imad/Desktop/yt2mp3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7041f8f0a9b37791f851acdfa3332c4945a8841d/classes.dex" />
+    </item>
+
+</items>
